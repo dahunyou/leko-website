@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Head from "next/head";
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useEffect, useState } from "react";
 import ThemeToggle from "@/components/ThemeToggle";
 import DancingGecko from "@/components/DancingGecko"; 
